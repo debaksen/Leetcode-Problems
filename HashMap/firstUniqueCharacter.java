@@ -1,3 +1,4 @@
+https://leetcode.com/problems/first-unique-character-in-a-string/
 class Solution {
   public int firstUniqChar(String s) {
     HashMap<Character, Integer> hm = new HashMap<>();
